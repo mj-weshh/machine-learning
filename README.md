@@ -117,8 +117,8 @@ dot -Tpng ms_recommender.dot -o ms_recommender.png
 ### Author
 
 - John Muhura
-- Contact: mailto:jowamumjwesh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/john-muhura-165b83294/
-- GitHub: https://github.com/mj-weshh
+- Contact: [mail](mailto:jowamumjwesh@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/john-muhura-165b83294/)
+- [GitHub](https://github.com/mj-weshh)
 
 ---
